@@ -3,6 +3,9 @@
 In this application, JSON data was read from a Spring Boot application
 and the data was used to populate a postgres database. 
 
+This app has been deployed on heroku as a staging environment with 
+staging base-url as https://vehiclemanagementapp.herokuapp.com
+
 
 ### How to run the application locally
 1. Clone this repository
